@@ -1,10 +1,10 @@
-# Abdullah Bilal — Student Portfolio
+# Abdullah Bilal  Student Portfolio
 
 > I'm **Abdullah Bilal**, a 3rd semester student in the **HDSE program** at **Aptech Learning Institute**. I build web applications and UIs using PHP, Laravel, JavaScript, React, Node, HTML, CSS, and SQL. I'm looking for internship and learning opportunities to grow my skills and build useful projects.
 
 
 
----
+
 
 ## Table of Contents
 
@@ -26,13 +26,13 @@
 
 ## About
 
-Hi — I’m **Abdullah Bilal**, a 3rd semester student in the **HDSE program** at **Aptech Learning Institute**. I focus on web development and full-stack projects, and I enjoy building applications that solve real user problems. I’m learning and working with PHP, Laravel, JavaScript (React / Node), HTML, CSS, and SQL.
+Hi  I’m **Abdullah Bilal**, a 3rd semester student in the **HDSE program** at **Aptech Learning Institute**. I focus on web development and full-stack projects, and I enjoy building applications that solve real user problems. I’m learning and working with PHP, Laravel, JavaScript (React / Node), HTML, CSS, and SQL.
 
 ---
 
 ## Highlights
 
-- 🔭 Currently building: Booking App — an online booking system for seminar tickets.  
+- 🔭 Currently building: Car Rental an online car booking system for rent.
 - 🌱 Learning: Advanced Laravel features, React hooks, and RESTful API design.  
 - 💬 Ask me about: web development, PHP/Laravel, React, and building end-to-end projects.  
 - ⚡ Fun fact: I like turning small ideas into working web apps.
