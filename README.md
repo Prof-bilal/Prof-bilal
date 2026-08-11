@@ -1,132 +1,242 @@
-# Abdullah Bilal  Student Portfolio
+# Abdullah Bilal
 
-> I'm **Abdullah Bilal**, a 3rd semester student in the **HDSE program** at **Aptech Learning Institute**. I build web applications and UIs using PHP, Laravel, JavaScript, React, Node, HTML, CSS, and SQL. I'm looking for internship and learning opportunities to grow my skills and build useful projects.
+### AI Product Engineer · Full-Stack Developer · Builder
 
+I'm **Abdullah Bilal**, a developer and student at **Aptech Learning Institute** building AI-powered products, developer tools, SaaS platforms, and real-time web applications.
 
+I enjoy taking an idea from **problem → architecture → MVP → working product**.
 
+Currently exploring the intersection of:
 
-
-## Table of Contents
-
-- [About](#about)
-- [Highlights](#highlights)
-- [Skills](#skills)
-- [Projects](#projects)
-  - [Booking App](#booking-app)
-  - [Craft Together](#craft-together)
-  - [Wellnexx](#wellnexx)
-- [Education](#education)
-- [How to Run This Project Locally](#how-to-run-this-project-locally)
-- [Contact](#contact)
-- [Resume](#resume)
-- [Contributing](#contributing)
-- [License](#license)
+**AI × Developer Tools × SaaS × Agent Systems × Full-Stack Engineering**
 
 ---
 
-## About
+## What I'm Building
 
-Hi  I’m **Abdullah Bilal**, a 3rd semester student in the **HDSE program** at **Aptech Learning Institute**. I focus on web development and full-stack projects, and I enjoy building applications that solve real user problems. I’m learning and working with PHP, Laravel, JavaScript (React / Node), HTML, CSS, and SQL.
+### CodeAtlas
+
+An AI-powered **code intelligence and context platform** designed to help AI agents understand real codebases instead of repeatedly rediscovering repository context.
+
+Working on:
+
+* Repository scanning
+* File hashing
+* Code parsing
+* Symbol extraction
+* Dependency graphs
+* AI-generated code summaries
+* Context databases
+* Semantic/code search
+* MCP integration
+* VS Code integration
+* Context API / SDK
+* Multi-agent session management
+* Context → Agent integration
+
+> Goal: Give coding agents the right context at the right time.
 
 ---
 
-## Highlights
+### CodeArena
 
-- 🔭 Currently building: Car Rental an online car booking system for rent.
-- 🌱 Learning: Advanced Laravel features, React hooks, and RESTful API design.  
-- 💬 Ask me about: web development, PHP/Laravel, React, and building end-to-end projects.  
-- ⚡ Fun fact: I like turning small ideas into working web apps.
+A real-time platform for **developer competitions and project-building battles**.
+
+Current architecture includes:
+
+* ASP.NET Core 8 Web API
+* React + Vite
+* SignalR
+* SQL Server
+* ASP.NET Identity
+* JWT
+* Monaco Editor
+
+The idea is simple:
+
+**Build → Compete → Submit → Get Community Feedback → Improve**
 
 ---
 
-## Skills
+### Founder OS
 
-- Languages & Frameworks: PHP, Laravel, JavaScript, React, Node.js  
-- Front-end: HTML5, CSS3, responsive design  
-- Databases: SQL (MySQL / PostgreSQL)  
-- Tools: Git, VS Code, basic terminal / deployment workflows
+An ecosystem I'm exploring for helping founders go from **idea → validation → launch → growth**.
+
+The broader vision includes products around:
+
+* Startup ideas
+* AI-assisted product building
+* Launch workflows
+* Growth
+* Founder collaboration
 
 ---
 
-## Projects
+## Selected Projects
 
-### Booking App
-- Description: An online booking application where users can book tickets for seminars. It handles listing seminars, booking seats, and basic booking confirmation.
-- Tech: Laravel, HTML, CSS, JavaScript
-- Status: [Add link to repo or demo]
-- Notes: Built the booking flow and backend logic with Laravel and used JavaScript for front-end interactions.
+### DevRoom / Solvearn
+
+An AI-powered engineering knowledge and search platform.
+
+The concept is to bring scattered engineering knowledge into one searchable system across sources such as:
+
+* GitHub
+* Documentation
+* Meeting transcripts
+* Notion
+* Organizational knowledge
+
+Exploring:
+
+**RAG · AI Search · Vector Databases · API Integrations · Developer Workflows**
+
+---
+
+### BuildPath
+
+An AI-powered platform for turning goals into structured learning and development paths.
+
+Focus areas:
+
+* Personalized roadmaps
+* Progress tracking
+* Goals
+* Recommendations
+* AI-assisted planning
+
+---
 
 ### Craft Together
-- Description: A web application to help women who are unable to work offline by connecting them with clients. The app provides a platform for showcasing crafts and handling client requests.
-- Tech: Core PHP, HTML, CSS, JavaScript
-- Status: [Add link to repo or demo]
-- Notes: Focused on user-facing pages, product listings, and client contact features.
+
+A marketplace concept connecting skilled creators and service providers with customers.
+
+Built around:
+
+* Profiles
+* Services
+* Listings
+* Booking
+* Location-based discovery
+* Messaging
+
+---
 
 ### Wellnexx
-- Description: A fitness website featuring workouts and wellness content.
-- Tech: React
-- Status: (https://wellness-tawny-pi.vercel.app/)
-- Notes: Built front-end components in React and implemented responsive layouts.
 
+A React-based fitness and wellness platform focused on responsive UI and user-friendly workout experiences.
 
+**Live:** https://wellness-tawny-pi.vercel.app/
 
 ---
 
-## Education
+## Tech Stack
 
-**Aptech Learning Institute** — HDSE Program  
-Current semester: 3rd semester
+### Languages
+
+`C#` `Python` `JavaScript` `TypeScript` `PHP` `SQL`
+
+### Backend
+
+`ASP.NET Core` `ASP.NET Web API` `Entity Framework Core` `REST APIs` `SignalR` `JWT` `ASP.NET Identity`
+
+### Frontend
+
+`React` `Vite` `HTML` `CSS` `JavaScript` `TypeScript` `Tailwind CSS`
+
+### Databases & Infrastructure
+
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Vector Databases`
+
+### AI / LLM Engineering
+
+`RAG` `AI APIs` `LLM Integration` `Embeddings` `Semantic Search` `MCP` `Ollama` `AI Agents`
+
+### Developer Tools
+
+`Git` `GitHub` `VS Code` `Monaco Editor` `Postman` `CLI Tools`
 
 ---
 
-## How to Run This Project Locally
+## Things I'm Exploring
 
-General steps — adjust per project:
+I'm particularly interested in building systems around:
 
-For Laravel (Booking App):
-bash
-# clone repo
-git clone https://github.com/yourusername/booking-app.git
-cd booking-app
-# install php dependencies
-composer install
-# copy .env and set DB credentials
-cp .env.example .env
-php artisan key:generate
-# run migrations
-php artisan migrate
-# serve
-php artisan serve
+* AI coding agents
+* Code intelligence
+* Context engineering
+* Model Context Protocol (MCP)
+* Multi-agent systems
+* RAG architectures
+* Local LLMs
+* AI developer infrastructure
+* Real-time applications
+* Distributed AI systems
+* Developer productivity
+* SaaS architecture
 
+---
 
-For Core PHP (Craft Together):
-bash
-# clone repo
-git clone https://github.com/yourusername/craft-together.git
-# serve with built-in PHP server (or configure Apache)
-php -S localhost:8000 -t public
+## My Current Learning Direction
 
+Instead of learning technologies in isolation, I'm trying to understand how they work together to build real products.
 
-For React (Wellnexx):
-bash
-git clone https://github.com/yourusername/wellnexx.git
-cd wellnexx
-npm install
-npm start
+### Current focus
 
+**Backend Engineering**
+→ ASP.NET Core → APIs → Architecture → Distributed Systems
 
+**AI Engineering**
+→ LLMs → RAG → Embeddings → Agents → MCP → AI Infrastructure
 
+**Product Engineering**
+→ Problem → MVP → User Feedback → Distribution → Revenue
 
- Contact
+**Systems**
+→ Search → Context → Caching → Queues → Real-time Communication
 
-- Email: you@example.com  
-- GitHub: [pROF-BILAL]((https://github.com/Prof-bilal))  
-- LinkedIn: [Abdullah Bilal](https://www.linkedin.com/in/abdullah-bilal-a7618134b/)
+---
 
-I'm open to internships, collaboration, and project feedback.
+## Builder Mindset
 
+I don't want to just collect technologies.
 
+I want to build things like:
 
+> **AI systems that understand software.**
 
+> **Developer tools that remove repetitive work.**
 
+> **Products that turn complicated workflows into simple experiences.**
 
+> **Startups that solve problems people actually care about.**
+
+---
+
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prof-bilal)](https://git.io/streak-stats)
+
+---
+
+## Let's Connect
+
+**GitHub:** [Prof-bilal](https://github.com/Prof-bilal)
+
+**LinkedIn:** [Abdullah Bilal](https://www.linkedin.com/in/abdullah-bilal-a7618134b/)
+
+I'm interested in:
+
+* AI engineering
+* Product engineering
+* Developer tools
+* Open-source projects
+* Startup ideas
+* Collaborating with builders
+
+---
+
+### Currently Building
+
+**CodeAtlas — Context → Intelligence → Agents**
+
+*Building tools for the next generation of AI-powered software development.*
