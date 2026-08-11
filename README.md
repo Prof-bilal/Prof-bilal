@@ -1,10 +1,10 @@
-# Abdullah Bilal
+# Hey, I'm Abdullah Bilal 👋
 
-### AI Product Engineer · Full-Stack Developer · Builder
+### AI Product Builder · Full-Stack Developer · Founder
 
-I'm **Abdullah Bilal**, a developer and student at **Aptech Learning Institute** building AI-powered products, developer tools, SaaS platforms, and real-time web applications.
+I'm **Abdullah Bilal**, a developer and student at **Aptech Learning Institute** focused on building **AI products, developer tools, SaaS platforms, and full-stack applications**.
 
-I enjoy taking an idea from **problem → architecture → MVP → working product**.
+I like turning ideas into working products — from **problem → architecture → MVP → product**.
 
 Currently exploring the intersection of:
 
@@ -12,37 +12,61 @@ Currently exploring the intersection of:
 
 ---
 
-## What I'm Building
+## 🚀 What I'm Building
 
-### CodeAtlas
+### 🧠 CodeAtlas
 
-An AI-powered **code intelligence and context platform** designed to help AI agents understand real codebases instead of repeatedly rediscovering repository context.
+An AI-powered **code intelligence and context platform** designed to help AI agents understand and work with real-world codebases.
+
+Instead of making an AI agent rediscover an entire repository for every task:
+
+```text
+User Task
+    ↓
+Context SDK
+    ↓
+Relevant Code
+    ↓
+AI Agent
+```
 
 Working on:
 
-* Repository scanning
-* File hashing
+* Repository indexing
 * Code parsing
 * Symbol extraction
 * Dependency graphs
-* AI-generated code summaries
-* Context databases
-* Semantic/code search
+* Code summaries
+* Semantic search
+* Context retrieval
 * MCP integration
 * VS Code integration
-* Context API / SDK
-* Multi-agent session management
-* Context → Agent integration
+* Context SDK
+* Agent integrations
 
-> Goal: Give coding agents the right context at the right time.
+**Goal:** Give AI agents the right code context at the right time.
 
 ---
 
-### CodeArena
+### ⚔️ CodeArena
 
 A real-time platform for **developer competitions and project-building battles**.
 
-Current architecture includes:
+Developers can:
+
+```text
+Choose Challenge
+      ↓
+Build
+      ↓
+Submit
+      ↓
+Community Voting
+      ↓
+Leaderboard
+```
+
+**Stack:**
 
 * ASP.NET Core 8 Web API
 * React + Vite
@@ -52,191 +76,166 @@ Current architecture includes:
 * JWT
 * Monaco Editor
 
-The idea is simple:
-
-**Build → Compete → Submit → Get Community Feedback → Improve**
-
 ---
 
-### Founder OS
+### 🏗️ Founder OS
 
-An ecosystem I'm exploring for helping founders go from **idea → validation → launch → growth**.
+An ecosystem I'm exploring for helping founders move from:
 
-The broader vision includes products around:
+**Idea → Validation → Building → Launch → Growth**
+
+The vision includes products around:
 
 * Startup ideas
 * AI-assisted product building
-* Launch workflows
+* Founder workflows
+* Launch management
 * Growth
 * Founder collaboration
 
 ---
 
-## Selected Projects
+## 💻 Selected Projects
 
-### DevRoom / Solvearn
+### CodeAtlas
 
-An AI-powered engineering knowledge and search platform.
+AI-powered code intelligence and context infrastructure for developer agents.
 
-The concept is to bring scattered engineering knowledge into one searchable system across sources such as:
+**Focus:** Code Intelligence · Context Engineering · AI Agents · MCP · Semantic Search
 
-* GitHub
-* Documentation
-* Meeting transcripts
-* Notion
-* Organizational knowledge
+---
 
-Exploring:
+### CodeArena
 
-**RAG · AI Search · Vector Databases · API Integrations · Developer Workflows**
+Real-time developer competition platform where developers build, compete, submit projects, and receive community feedback.
+
+**Focus:** Real-time Systems · WebSockets · Full-Stack Development · Developer Communities
 
 ---
 
 ### BuildPath
 
-An AI-powered platform for turning goals into structured learning and development paths.
+A platform for creating structured learning and development paths.
 
-Focus areas:
-
-* Personalized roadmaps
-* Progress tracking
-* Goals
-* Recommendations
-* AI-assisted planning
+**Focus:** Learning Roadmaps · AI · Progress Tracking · Personalized Planning
 
 ---
 
 ### Craft Together
 
-A marketplace concept connecting skilled creators and service providers with customers.
+A platform connecting skilled creators with customers who need their products or services.
 
-Built around:
-
-* Profiles
-* Services
-* Listings
-* Booking
-* Location-based discovery
-* Messaging
+**Tech:** PHP · HTML · CSS · JavaScript · MySQL
 
 ---
 
 ### Wellnexx
 
-A React-based fitness and wellness platform focused on responsive UI and user-friendly workout experiences.
+A React-based fitness and wellness platform with responsive interfaces and workout-focused experiences.
 
 **Live:** https://wellness-tawny-pi.vercel.app/
 
+**Tech:** React · JavaScript · CSS
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-`C#` `Python` `JavaScript` `TypeScript` `PHP` `SQL`
+[![Languages](https://skillicons.dev/icons?i=cs,python,js,ts,php,sql\&perline=6)](https://skillicons.dev)
 
 ### Backend
 
-`ASP.NET Core` `ASP.NET Web API` `Entity Framework Core` `REST APIs` `SignalR` `JWT` `ASP.NET Identity`
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express\&perline=6)](https://skillicons.dev)
 
 ### Frontend
 
-`React` `Vite` `HTML` `CSS` `JavaScript` `TypeScript` `Tailwind CSS`
+[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind\&perline=6)](https://skillicons.dev)
 
-### Databases & Infrastructure
+### Databases
 
-`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Vector Databases`
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis\&perline=6)](https://skillicons.dev)
 
-### AI / LLM Engineering
+### AI & Developer Tools
 
-`RAG` `AI APIs` `LLM Integration` `Embeddings` `Semantic Search` `MCP` `Ollama` `AI Agents`
+[![Tools](https://skillicons.dev/icons?i=python,git,github,vscode,postman,ollama\&perline=6)](https://skillicons.dev)
 
-### Developer Tools
+### Currently Exploring
 
-`Git` `GitHub` `VS Code` `Monaco Editor` `Postman` `CLI Tools`
-
----
-
-## Things I'm Exploring
-
-I'm particularly interested in building systems around:
-
-* AI coding agents
-* Code intelligence
-* Context engineering
-* Model Context Protocol (MCP)
-* Multi-agent systems
-* RAG architectures
-* Local LLMs
-* AI developer infrastructure
-* Real-time applications
-* Distributed AI systems
-* Developer productivity
-* SaaS architecture
+```text
+AI Agents
+RAG
+MCP
+Context Engineering
+Embeddings
+Vector Search
+LLM Infrastructure
+Distributed Systems
+Real-time Systems
+Developer Tooling
+```
 
 ---
 
-## My Current Learning Direction
+## 🧠 What I'm Learning
 
-Instead of learning technologies in isolation, I'm trying to understand how they work together to build real products.
+I'm focused on understanding **systems**, not just individual technologies.
 
-### Current focus
+### Backend Engineering
 
-**Backend Engineering**
-→ ASP.NET Core → APIs → Architecture → Distributed Systems
+`ASP.NET Core` → `Web APIs` → `Architecture` → `Distributed Systems`
 
-**AI Engineering**
-→ LLMs → RAG → Embeddings → Agents → MCP → AI Infrastructure
+### AI Engineering
 
-**Product Engineering**
-→ Problem → MVP → User Feedback → Distribution → Revenue
+`LLMs` → `RAG` → `Embeddings` → `Agents` → `MCP` → `AI Infrastructure`
 
-**Systems**
-→ Search → Context → Caching → Queues → Real-time Communication
+### Product Engineering
 
----
+`Problem` → `MVP` → `Users` → `Feedback` → `Distribution` → `Revenue`
 
-## Builder Mindset
+### Developer Infrastructure
 
-I don't want to just collect technologies.
-
-I want to build things like:
-
-> **AI systems that understand software.**
-
-> **Developer tools that remove repetitive work.**
-
-> **Products that turn complicated workflows into simple experiences.**
-
-> **Startups that solve problems people actually care about.**
+`Code Intelligence` → `Context` → `Search` → `Caching` → `Real-time Communication`
 
 ---
 
-## GitHub Activity
+## 🔥 My Philosophy
+
+I don't want to simply collect technologies.
+
+I want to build things that are actually useful.
+
+> **Build less. Learn faster. Ship often.**
+
+My goal is to turn technical ideas into products that people can actually use.
+
+---
+
+## 📊 GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prof-bilal)](https://git.io/streak-stats)
 
 ---
 
-## Let's Connect
+## 🌐 Connect With Me
 
-**GitHub:** [Prof-bilal](https://github.com/Prof-bilal)
+[![GitHub](https://img.shields.io/badge/GitHub-Prof--bilal-181717?style=for-the-badge\&logo=github)](https://github.com/Prof-bilal)
 
-**LinkedIn:** [Abdullah Bilal](https://www.linkedin.com/in/abdullah-bilal-a7618134b/)
-
-I'm interested in:
-
-* AI engineering
-* Product engineering
-* Developer tools
-* Open-source projects
-* Startup ideas
-* Collaborating with builders
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Bilal-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abdullah-bilal-a7618134b/)
 
 ---
 
-### Currently Building
+## 🚧 Currently Building
 
-**CodeAtlas — Context → Intelligence → Agents**
+### CodeAtlas
 
-*Building tools for the next generation of AI-powered software development.*
+**Context → Code Intelligence → Agents**
+
+Building infrastructure that helps AI coding agents understand software projects better.
+
+---
+
+<p align="center">
+  <b>Building products, not just projects.</b>
+</p>
